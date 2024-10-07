@@ -16,7 +16,6 @@
 <li><a href="#resumes">RESUMES</a></li>
  <li><a href="#contact">CONTACT</a><li>
  
-</header>
 
 <section>
     <section id="about">
@@ -62,6 +61,4 @@
 <footer>
     <p>&copy; 2024 My Portfolio</p>
 </footer>
-</body>
-    </html>
 

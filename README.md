@@ -1,4 +1,3 @@
-
 <html lang="en">
     <head>
         
@@ -6,7 +5,7 @@
         <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
         <title>MY PORTFOLIO</title>
         <link rel="stylesheet" href="styles.css">
-    </head>
+    
     <body>
         <header>
             <h1> MY PORTFOLIO</h1>

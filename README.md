@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
     <head>
-        <title>Maan Portfolio</title>
+        
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
         <title>MY PORTFOLIO</title>
@@ -16,8 +16,7 @@
 <li><a href="#about">ABOUT</a></li>
 <li><a href="#resumes">RESUMES</a></li>
  <li><a href="#contact">CONTACT</a><li>
- </ul>
-</nav>
+ 
 </header>
 
 <section>
